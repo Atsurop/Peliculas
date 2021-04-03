@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Sauto\source\repos\AngularP\back-end\obj\Release\net5.0\win-x86\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Sauto\source\repos\AngularP\back-end\obj\Release\net5.0\win-x86\PubTmp\EFSQLScripts\back_end.Data.ApplicationDbContext.sql" />
+</sitemanifest>
